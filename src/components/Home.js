@@ -13,7 +13,7 @@ const Home = () => {
           </section>
           <section>
               <div className='d-flex justify-content-center align-item-center p-5 bg-dark text-white'>
-              <h2 className='m-5'>"A picture is worth thousand words they say, but we feel wedding photographs are more than that. For the amount of love, joy, promise, dreams and memories they carry within, it is an endless journey of emotions that the couple gets to experience on the big day.we make sure not a moment is missed when you are in the flow of the occasion."</h2>
+              <h2 className='lead'>"A picture is worth thousand words they say, but we feel wedding photographs are more than that. For the amount of love, joy, promise, dreams and memories they carry within, it is an endless journey of emotions that the couple gets to experience on the big day.we make sure not a moment is missed when you are in the flow of the occasion."</h2>
               </div>
           </section>
           <Services></Services>
